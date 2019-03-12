@@ -1,10 +1,10 @@
 #!/bin/bash
 #title           :password_checkr.sh
 #description     :checks for pwned passwords against cracked list using k-anonymity.
-#author		     :John Beoris
+#author          :John Beoris
 #date            :20190312
 #version         :0.1    
-#usage		     :bash password_checkr.sh
+#usage           :bash password_checkr.sh
 #notes           :Use password manager to make better passwords.
 #bash_version    :3.2
 #==============================================================================
